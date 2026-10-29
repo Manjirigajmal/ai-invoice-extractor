@@ -1,0 +1,386 @@
+[
+  {
+    "file": "SGP-2026-0142.pdf",
+    "vendor_name": "Shree Ganesh Packaging Pvt Ltd",
+    "vendor_gstin": "27AAKCS7310P1ZS",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "SGP-2026-0142",
+    "invoice_date": "2026-09-03",
+    "line_items": [
+      {
+        "description": "Corrugated boxes 5-ply 18x12x12",
+        "hsn_sac": "4819",
+        "quantity": 400,
+        "unit_price": 42.5,
+        "amount": 17000.0
+      },
+      {
+        "description": "Bubble wrap roll 1m x 100m",
+        "hsn_sac": "3920",
+        "quantity": 12,
+        "unit_price": 1150.0,
+        "amount": 13800.0
+      }
+    ],
+    "subtotal": 30800.0,
+    "cgst": 2772.0,
+    "sgst": 2772.0,
+    "igst": 0.0,
+    "total": 36344.0,
+    "gst_rate": 18,
+    "planted_problem": null
+  },
+  {
+    "file": "SGP-2026-0148.pdf",
+    "vendor_name": "Shree Ganesh Packaging Pvt Ltd",
+    "vendor_gstin": "27AAKCS7310P1ZS",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "SGP-2026-0148",
+    "invoice_date": "2026-09-17",
+    "line_items": [
+      {
+        "description": "Corrugated boxes 3-ply 12x10x8",
+        "hsn_sac": "4819",
+        "quantity": 600,
+        "unit_price": 21.0,
+        "amount": 12600.0
+      },
+      {
+        "description": "BOPP tape 48mm x 65m",
+        "hsn_sac": "3919",
+        "quantity": 144,
+        "unit_price": 38.0,
+        "amount": 5472.0
+      }
+    ],
+    "subtotal": 18072.0,
+    "cgst": 1626.48,
+    "sgst": 1626.48,
+    "igst": 0.0,
+    "total": 22324.96,
+    "gst_rate": 18,
+    "planted_problem": "total_mismatch"
+  },
+  {
+    "file": "SGP-2026-0161.pdf",
+    "vendor_name": "Shree Ganesh Packaging Pvt Ltd",
+    "vendor_gstin": "27AAKCS7310P1ZS",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "SGP-2026-0161",
+    "invoice_date": "2026-10-06",
+    "line_items": [
+      {
+        "description": "Printed mailer boxes",
+        "hsn_sac": "4819",
+        "quantity": 250,
+        "unit_price": 64.0,
+        "amount": 16000.0
+      },
+      {
+        "description": "Kraft paper roll 90 GSM",
+        "hsn_sac": "4804",
+        "quantity": 8,
+        "unit_price": 2350.0,
+        "amount": 21150.0
+      }
+    ],
+    "subtotal": 34800.0,
+    "cgst": 3132.0,
+    "sgst": 3132.0,
+    "igst": 0.0,
+    "total": 41064.0,
+    "gst_rate": 18,
+    "planted_problem": "line_item_mismatch"
+  },
+  {
+    "file": "NLS-26-27-0087.pdf",
+    "vendor_name": "Nilgiri Lab Supplies LLP",
+    "vendor_gstin": "33AAQFN2264D1ZE",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "NLS/26-27/0087",
+    "invoice_date": "2026-09-09",
+    "line_items": [
+      {
+        "description": "Nitrile gloves (box of 100)",
+        "hsn_sac": "4015",
+        "quantity": 40,
+        "unit_price": 385.0,
+        "amount": 15400.0
+      },
+      {
+        "description": "Petri dishes 90mm sterile (pack of 500)",
+        "hsn_sac": "3926",
+        "quantity": 6,
+        "unit_price": 2950.0,
+        "amount": 17700.0
+      },
+      {
+        "description": "Disposable pipette tips 200ul (rack of 96)",
+        "hsn_sac": "3926",
+        "quantity": 30,
+        "unit_price": 210.0,
+        "amount": 6300.0
+      }
+    ],
+    "subtotal": 39400.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 7092.0,
+    "total": 46492.0,
+    "gst_rate": 18,
+    "planted_problem": null
+  },
+  {
+    "file": "NLS-26-27-0092.pdf",
+    "vendor_name": "Nilgiri Lab Supplies LLP",
+    "vendor_gstin": "33AAQFN2264D1ZA",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "NLS/26-27/0092",
+    "invoice_date": "2026-09-24",
+    "line_items": [
+      {
+        "description": "Culture media SCDA 500g",
+        "hsn_sac": "3821",
+        "quantity": 10,
+        "unit_price": 4200.0,
+        "amount": 42000.0
+      },
+      {
+        "description": "Sterile swabs (pack of 100)",
+        "hsn_sac": "3005",
+        "quantity": 15,
+        "unit_price": 540.0,
+        "amount": 8100.0
+      }
+    ],
+    "subtotal": 50100.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 9018.0,
+    "total": 59118.0,
+    "gst_rate": 18,
+    "planted_problem": "invalid_gstin"
+  },
+  {
+    "file": "NLS-26-27-0101.pdf",
+    "vendor_name": "Nilgiri Lab Supplies LLP",
+    "vendor_gstin": "33AAQFN2264D1ZE",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "NLS/26-27/0101",
+    "invoice_date": "2026-10-14",
+    "line_items": [
+      {
+        "description": "Autoclave indicator tape",
+        "hsn_sac": "3919",
+        "quantity": 20,
+        "unit_price": 310.0,
+        "amount": 6200.0
+      },
+      {
+        "description": "Glass media bottles 500ml",
+        "hsn_sac": "7017",
+        "quantity": 24,
+        "unit_price": 365.0,
+        "amount": 8760.0
+      }
+    ],
+    "subtotal": 14960.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 2692.8,
+    "total": 17652.8,
+    "gst_rate": 18,
+    "planted_problem": null
+  },
+  {
+    "file": "BW-INV-3302.pdf",
+    "vendor_name": "Bluewave IT Services",
+    "vendor_gstin": "29ABDFB9051R1ZQ",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "BW-INV-3302",
+    "invoice_date": "2026-09-01",
+    "line_items": [
+      {
+        "description": "Managed IT support - September 2026",
+        "hsn_sac": "998313",
+        "quantity": 1,
+        "unit_price": 45000.0,
+        "amount": 45000.0
+      },
+      {
+        "description": "Microsoft 365 licences (monthly)",
+        "hsn_sac": "997331",
+        "quantity": 18,
+        "unit_price": 620.0,
+        "amount": 11160.0
+      }
+    ],
+    "subtotal": 56160.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 10108.8,
+    "total": 66268.8,
+    "gst_rate": 18,
+    "planted_problem": null
+  },
+  {
+    "file": "BW-INV-3317.pdf",
+    "vendor_name": "Bluewave IT Services",
+    "vendor_gstin": "29ABDFB9051R1ZQ",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "BW-INV-3317",
+    "invoice_date": "2026-10-01",
+    "line_items": [
+      {
+        "description": "Managed IT support - October 2026",
+        "hsn_sac": "998313",
+        "quantity": 1,
+        "unit_price": 45000.0,
+        "amount": 45000.0
+      },
+      {
+        "description": "Laptop setup and imaging",
+        "hsn_sac": "998713",
+        "quantity": 4,
+        "unit_price": 1800.0,
+        "amount": 7200.0
+      }
+    ],
+    "subtotal": 52200.0,
+    "cgst": 4698.0,
+    "sgst": 4698.0,
+    "igst": 0.0,
+    "total": 61596.0,
+    "gst_rate": 18,
+    "planted_problem": "wrong_tax_type"
+  },
+  {
+    "file": "BW-INV-3329.pdf",
+    "vendor_name": "Bluewave IT Services",
+    "vendor_gstin": "29ABDFB9051R1ZQ",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "BW-INV-3329",
+    "invoice_date": "2026-10-19",
+    "line_items": [
+      {
+        "description": "Firewall configuration (one-time)",
+        "hsn_sac": "998316",
+        "quantity": 1,
+        "unit_price": 22000.0,
+        "amount": 22000.0
+      }
+    ],
+    "subtotal": 22000.0,
+    "cgst": 0.0,
+    "sgst": 0.0,
+    "igst": 3960.0,
+    "total": 25960.0,
+    "gst_rate": 18,
+    "planted_problem": null
+  },
+  {
+    "file": "KOS-0605.pdf",
+    "vendor_name": "Kavya Office Solutions",
+    "vendor_gstin": "27AFZPK6627L1ZI",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "KOS-0605",
+    "invoice_date": "2026-09-12",
+    "line_items": [
+      {
+        "description": "A4 copier paper 75 GSM (ream)",
+        "hsn_sac": "4802",
+        "quantity": 60,
+        "unit_price": 265.0,
+        "amount": 15900.0
+      },
+      {
+        "description": "Printer toner cartridge 88A",
+        "hsn_sac": "8443",
+        "quantity": 5,
+        "unit_price": 2450.0,
+        "amount": 12250.0
+      }
+    ],
+    "subtotal": 28150.0,
+    "cgst": 2533.5,
+    "sgst": 2533.5,
+    "igst": 0.0,
+    "total": 33217.0,
+    "gst_rate": 18,
+    "planted_problem": null
+  },
+  {
+    "file": "KOS-0611.pdf",
+    "vendor_name": "Kavya Office Solutions",
+    "vendor_gstin": "27AFZPK6627L1ZI",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "KOS-0611",
+    "invoice_date": "2026-09-29",
+    "line_items": [
+      {
+        "description": "Ergonomic office chair",
+        "hsn_sac": "9401",
+        "quantity": 6,
+        "unit_price": 7800.0,
+        "amount": 46800.0
+      },
+      {
+        "description": "Whiteboard 4x3 ft",
+        "hsn_sac": "9610",
+        "quantity": 2,
+        "unit_price": 2150.0,
+        "amount": 4300.0
+      }
+    ],
+    "subtotal": 51100.0,
+    "cgst": 4599.0,
+    "sgst": 4599.0,
+    "igst": 0.0,
+    "total": 60298.0,
+    "gst_rate": 18,
+    "planted_problem": null
+  },
+  {
+    "file": "KOS-0611_copy.pdf",
+    "vendor_name": "Kavya Office Solutions",
+    "vendor_gstin": "27AFZPK6627L1ZI",
+    "buyer_name": "Meridian Analytics Pvt Ltd",
+    "buyer_gstin": "27AAHCM4821K1Z9",
+    "invoice_number": "KOS-0611",
+    "invoice_date": "2026-09-29",
+    "line_items": [
+      {
+        "description": "Ergonomic office chair",
+        "hsn_sac": "9401",
+        "quantity": 6,
+        "unit_price": 7800.0,
+        "amount": 46800.0
+      },
+      {
+        "description": "Whiteboard 4x3 ft",
+        "hsn_sac": "9610",
+        "quantity": 2,
+        "unit_price": 2150.0,
+        "amount": 4300.0
+      }
+    ],
+    "subtotal": 51100.0,
+    "cgst": 4599.0,
+    "sgst": 4599.0,
+    "igst": 0.0,
+    "total": 60298.0,
+    "gst_rate": 18,
+    "planted_problem": "duplicate"
+  }
+]
